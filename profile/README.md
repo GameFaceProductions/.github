@@ -4,15 +4,14 @@
 GameFace is a social media platform that allows gamers to connect with other gamers in order to enhance their gaming experience. GameFace users are able to create and personalize their profile based on experience level, play style, and platform of choice. Additionally, GameFace users can connect with other users through posts, likes, comments, and highlights. GameFace gives users the ability to find gaming partners based on games played, region, skill, and play style. Ultimately, GameFace is a networking solution that allows users to connect and grow as gamers in a safe and inclusive environment.
 
 # API’s: 
-RAWG’s Video Game Database
-Youtube (potentially)
-GameFace API (our database)
+RAWG’s Video Game Database, 
+Youtube (potentially), 
+GameFace API (our database), 
 TalkJS API (potentially)
 
 
 # GameFace Main Stories / Features
-#STORIES
-#Visitor Story
+# Visitor Story
 As a VISITOR I can view the landing page that has a link to register and login (navbar shows basically nothing)
 
 # Login Story
